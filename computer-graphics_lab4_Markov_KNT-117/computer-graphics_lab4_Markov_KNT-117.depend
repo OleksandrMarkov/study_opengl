@@ -1,0 +1,68 @@
+# depslib dependency file v1.0
+1602541746 source:e:\knt\4\mcg\3\opengl_youtube\14\main.c
+	<windows.h>
+	<gl/gl.h>
+	<math.h>
+	"../open_gl/camera.h"
+	"../open_gl/main.h"
+
+1604426803 e:\knt\4\mcg\3\opengl_youtube\open_gl\camera.h
+
+1604426803 source:e:\knt\4\mcg\3\opengl_youtube\open_gl\camera.c
+	"GL/gl.h"
+	<windows.h>
+	<math.h>
+	"camera.h"
+
+1604431919 e:\knt\4\mcg\3\opengl_youtube\open_gl\main.h
+
+1604431916 source:e:\knt\4\mcg\3\opengl_youtube\computer-graphics_lab3_markov_knt-117\main.c
+	<windows.h>
+	<gl/gl.h>
+	<math.h>
+	"../open_gl/camera.h"
+	"../open_gl/main.h"
+
+1604526333 source:e:\knt\4\mcg\4\computer-graphics_lab3_markov_knt-117\main.c
+	<windows.h>
+	<gl/gl.h>
+	<math.h>
+	"../open_gl/camera.h"
+	"../open_gl/stb-master/stb_image.h"
+	"../open_gl/main.h"
+
+1604432364 e:\knt\4\mcg\4\open_gl\camera.h
+
+1604559668 e:\knt\4\mcg\4\open_gl\main.h
+
+1604552066 source:e:\knt\4\mcg\4\open_gl\camera.c
+	"GL/gl.h"
+	<windows.h>
+	<math.h>
+	"camera.h"
+
+1594601166 e:\knt\4\mcg\4\open_gl\stb-master\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1604560005 source:e:\knt\4\mcg\4\computer-graphics_lab4_markov_knt-117\main.c
+	<windows.h>
+	<gl/gl.h>
+	<math.h>
+	"../open_gl/camera.h"
+	"../open_gl/stb-master/stb_image.h"
+	"../open_gl/main.h"
+
